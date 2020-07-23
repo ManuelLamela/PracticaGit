@@ -1,4 +1,4 @@
 # PracticaGit
 Trabajo Grupal de calidad del software
 
-![img](https://imgur.com/gallery/qMFyVyx)
+![Alt text](http://full/path/to/img.jpg "Optional title")
