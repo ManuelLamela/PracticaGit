@@ -1,4 +1,4 @@
 # PracticaGit
 Trabajo Grupal de calidad del software
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![Sanic](https://giphy.com/gifs/sanic-77er1c9H3KJnq)
