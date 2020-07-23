@@ -1,4 +1,4 @@
 # PracticaGit
 Trabajo Grupal de calidad del software
 
-![Sanic](https://imgur.com/gallery/qMFyVyx)
+![img](https://imgur.com/gallery/qMFyVyx)
